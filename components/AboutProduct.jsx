@@ -22,12 +22,12 @@ const AboutProduct = ({ username }) => {
       <p className="mt-1">
         Crafted with 💙 by{" "}
         <a
-          href="https://github.com/ashutosh-rath02"
+          href="https://github.com/Agastya221"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-600 hover:underline ml-1"
         >
-          Vasudev
+          Javed
         </a>
         🪶
       </p>
